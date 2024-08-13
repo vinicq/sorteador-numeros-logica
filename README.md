@@ -33,6 +33,10 @@ O **Jogo de Sorteio de Números** permite que os usuários:
 - **`alterarStatusBotao()`:** Altera o estado do botão de reiniciar, ativando ou desativando-o.
 - **`reiniciar()`:** Reseta os campos de entrada e a área de resultado, permitindo um novo sorteio.
 
+## 📸 Capturas de Tela
+
+![Sorteador de Números](https://github.com/vinicq/sorteador-numeros-logica/blob/main/path/to/screenshot.png)
+
 ## 🎮 Como Usar
 
 1. Clone este repositório para sua máquina local:
